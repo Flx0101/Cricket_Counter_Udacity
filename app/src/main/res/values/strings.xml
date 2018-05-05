@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Cricket</string>
+    <string name="wicket_csk">0</string>
+    <string name="slash_csk">/</string>
+    <string name="run_csk">0</string>
+    <string name="wicket_rcb">0</string>
+    <string name="slash_rcb">/</string>
+    <string name="score_rcb">0</string>
+    <string name="choose_to_bat">Choose To Bat</string>
+    <string name="overs">Overs:</string>
+    <string name="_0_0">0.0</string>
+    <string name="toss">Toss</string>
+    <string name="bat">Bat</string>
+    <string name="reset">Reset</string>
+    <string name="winner_yet_to_be_decided">Winner Yet To be Decided</string>
+    <string name="over">0</string>
+    <string name="balls">0</string>
+    <string name="dot">.</string>
+    <string name="toss_decide">Toss :</string>
+</resources>
